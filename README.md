@@ -5,7 +5,7 @@ List of notebooks:
 - 01 Graph problems: MIN VERTEX COVER
 - 02 SAT problems
 - 03 Constrained SAT problems (CSP)
-- 04 CSP and Optimization of Binary Quadratic Models
-- 05 CSP and Optimization of Discrete Quadratic Models
-- 06 CSP and Optimization of Constrained Quadratic Models
+- 04 CSP and Optimization of Binary Quadratic Models (BQM)
+- 05 CSP and Optimization of Discrete Quadratic Models (DQM)
+- 06 CSP and Optimization of Constrained Quadratic Models (CQM)
 - 07 Minor Embedding
